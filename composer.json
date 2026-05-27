@@ -7,12 +7,12 @@
         "psr-4": { "steevanb\\PhpYaml\\": "" }
     },
     "require": {
-        "symfony/yaml": "^3.1||^4.0||^5.1"
+        "symfony/yaml": "7.3.*||7.4.*"
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/steevanb/php-yaml.git"
+            "url": "https://github.com/huttopia/php-yaml.git"
         }
     ]
 }
